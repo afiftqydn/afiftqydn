@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Afif Taqiyuddin 👋
 
-<!--
-**afiftqydn/afiftqydn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GIS Analyst & Software Developer | Supply Chain Traceability & Sustainability Compliance
 
-Here are some ideas to get you started:
+- 🌍 Based in Pontianak, West Kalimantan, Indonesia — open to work
+- 🛰️ Recently completed the 0°Latitude Academy internship at Inovasi Digital (Earthqualizer Group), on the Supplier Group Monitoring Program (SGMP) — geospatial monitoring for sustainable palm oil supply chains using Geometrack
+- 💻 Background in freelance software development (PHP/Laravel, React, JavaScript, Python) since 2021, plus an internship at PLN Icon Plus
+- 🎓 IT graduate, Universitas Muhammadiyah Pontianak
+- 🧰 Tools I use: QGIS, Google Earth Engine, Python, Laravel, React
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/afif-taqiyuddin-645471339/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- **PrediksiSuhuSambas** — temperature prediction case study (Jupyter Notebook)
+- **sajingan-storymap** — interactive story map (JavaScript)
